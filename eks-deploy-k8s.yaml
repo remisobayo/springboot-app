@@ -51,6 +51,7 @@ spec:
   selector:
     app: springboot-app
 
+# Deploy Ingress
 ---
 apiVersion: networking.k8s.io/v1
 kind: Ingress
